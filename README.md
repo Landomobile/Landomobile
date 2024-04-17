@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Landomobile
 - 👀 I’m interested in ... what this website is 
 - 🌱 I’m currently learning ... how to code
-- 💞️ I’m looking to collaborate on ... anyhring that will help me grow 
+- 💞️ I’m looking to collaborate on ... anything that will help me grow 
 - 📫 How to reach me ... email@gmail.com
-- 😄 Pronouns: ... dont care
+- 😄 Pronouns: ... don't care
 - ⚡ Fun fact: ... I have an axolotl also I like to stare at tables.
 - 🚗 My favorite transportation service: ... Bike
 <!---
